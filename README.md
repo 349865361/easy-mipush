@@ -1,7 +1,10 @@
 # mipush
 easy to use mipush parallelly
 并行的小米sdk
-Version 0.1.0
+Version 0.1.1
+
+## about
+基于 https://github.com/TIGERB/easy-mipush 版本进行修改，修复部分bug问题，方便项目使用
 
 ### intro
 - 调用一次同时推送给ios&android两种设备，不用分别推送
@@ -12,7 +15,7 @@ Version 0.1.0
 
 ### how to use?
 ```
-composer require tigerb/easy-mipush
+composer require duxphp/easy-mipush
 
 使用格式：
 try {
