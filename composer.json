@@ -1,10 +1,10 @@
 {
-    "name": "tigerb/easy-mipush",
-    "description": "easy to use mipush parallelly",
+    "name": "duxphp-mipush",
+    "description": "MiPush From TIGERB/easy - mipush repair",
     "authors": [
         {
-            "name": "TIGERB",
-            "email": "tigerbcode@gmail.com"
+            "name": "DuxPHP",
+            "email": "349865361@qq.com"
         }
     ],
     "require": {
@@ -18,7 +18,7 @@
     "keywords": [
         "mipush"
     ],
-    "homepage": "http://tiegrb.cn/",
+    "homepage": "http://duxphp.com/",
     "license": "MIT",
     "minimum-stability": "stable",
     "config": {
