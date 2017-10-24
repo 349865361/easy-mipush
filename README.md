@@ -15,7 +15,7 @@ Version 0.1.1
 
 ### how to use?
 ```
-composer require duxphp/easy-mipush
+composer require duxphp/mipush
 
 使用格式：
 try {
